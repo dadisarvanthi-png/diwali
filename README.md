@@ -26,7 +26,7 @@ The **Diwali Celebration Website** is a front-end web project created to practic
 
 * HTML5
 * CSS3
-* JavaScript (ES6)
+
 
 ---
 
@@ -36,10 +36,6 @@ The **Diwali Celebration Website** is a front-end web project created to practic
 diwali/
 │── index.html
 │── style.css
-│── script.js
-│── assets/
-│    ├── images/
-│    └── icons/
 └── README.md
 ```
 
