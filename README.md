@@ -9,10 +9,7 @@ A modern and responsive Diwali-themed website built using **HTML, CSS, and JavaS
 The **Diwali Celebration Website** is a front-end web project created to practice modern web development concepts such as responsive layouts, animations, and interactive components. It demonstrates clean UI design and effective use of HTML, CSS, and JavaScript.
 
 ---
-🌐 Live Demo
-Add your Vercel URL here after deployment.
 
-Example: https://your-project.vercel.app
 ## ✨ Features
 
 * 🎆 Attractive Diwali-themed user interface
